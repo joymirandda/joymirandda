@@ -1,0 +1,4 @@
+- 💜 Oii, eu sou a Joy!
+- 🌱 Estou aprendendo sobre o Git
+- 💻 Estou procurando por uma oportunidade melhor!
+- 📲 Me contate pelo e-mail: joy.mirandda@gmail.com
